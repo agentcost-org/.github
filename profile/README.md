@@ -4,9 +4,6 @@
 
 AgentCost is an open-source observability platform for LLM-powered applications. It automatically tracks every LLM call your AI agents make, calculates real-time costs, and provides actionable insights to reduce your AI infrastructure spending.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
-![FastAPI](https://img.shields.io/badge/fastapi-0.109+-green.svg)
 
 ## The Problem
 
